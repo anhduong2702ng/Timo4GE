@@ -1,0 +1,23 @@
+{
+  "days": 10,
+  "midterm_exercises": 38,
+  "exercises": 61,
+  "mock_questions": 25,
+  "sources": [
+    "TIMOK4.pdf",
+    "4GE. CĐ1. Tính nhanh - Tìm thành phần chưa biết.pdf",
+    "[26 -27] ĐỀ CƯƠNG GIỮA KÌ 1 TOÁN 4.pdf",
+    "[26-27]. Toán 4.CĐ2. Cấu tạo số.pdf"
+  ],
+  "timo_catalog_questions": 350,
+  "timo_preliminary_questions": 175,
+  "timo_national_questions": 175,
+  "timo_categories": 50,
+  "timo_preliminary_categories": 36,
+  "core_pool": 27,
+  "extension_pool": 10,
+  "theory_timo_categories": 50,
+  "theory_preliminary_categories": 36,
+  "theory_national_only_categories": 14,
+  "theory_midterm_extra_skills": 5
+}

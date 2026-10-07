@@ -1,0 +1,103 @@
+
+=== PDF PAGE 1 ===
+ 
+ 
+1 
+ 
+TÀI NĂNG 4 – CHỦ ĐỀ 5 
+ 
+TH – THCS NEWTON  5 
+CLB TÀI NĂNG – TOÁN 4 
+CHUYÊN ĐỀ 5: DẤU HIỆU CHIA HẾT 
+Họ và tên:………………………………………………… Lớp:……………………… 
+I. Kiến thức cần nhớ 
+- Những số chia hết cho 2 là những số có chữ số tận cùng là 0; 2; 4; 6; 8. 
+- Những số chia hết cho 5 là những số có chữ số tận cùng là 0; 5. 
+- Những số có tổng các chữ số của nó chia hết cho 3 (chia hết cho 9) thì nó chia hết 
+cho 3 (chia hết cho 9). 
+- Dấu hiệu chia hết cho 4; 25 là số có 2 chữ số tận cùng tạo thành số chia hết cho 4; 25 
+thì chia hết cho 4; 25. 
+- Dấu hiệu chia hết cho 8; 125 là số có 3 chữ số tận cùng tạo thành số chia hết cho 8; 
+125 thì chia hết cho 8; 125. 
+II. Bài tập 
+Bài 1. Thay x và y vào 1996xyđể được số chia hết cho 2, 5, 9. 
+Bài 2. Cho n = 378
+a
+b là số tự nhiên có 5 chữ số khác nhau. Tìm tất cả các chữ số a 
+và b để thay vào ta được số n chia hết cho 3 và 4. 
+Bài 3. Hãy xác định các chữ số a, b để khi thay vào số  6a49b ta được số chia hết cho 
+2 và 9.  
+Bài 4. Cho số 35
+x
+y. Hãy thay x, y bởi những chữ số thích hợp để được số chia hết 
+cho cả 3 và 4. 
+Bài 5. Tìm các chữ số a, b để 345ab chia hết cho 45. 
+Bài 6. Tìm các số có dạng 34 5
+x y sao cho số đó chia hết cho 30. 
+Bài 7. Có thể thay mỗi chữ cái chưa biết bởi các chữ số thích hợp hay không? Giải 
+thích tại sao? 
+(
+)
+2346
+MATH
+M
+A
+T
+H
+−
++
++
++
+=
+ 
+Bài 8. Có thể thay các chữ trong phép tính sau bằng các chữ số thích hợp được 
+không? 
+102386
+CHAMHOC
+HOCCHAM
+−
+=
+ 
+
+
+=== PDF PAGE 2 ===
+ 
+ 
+2 
+ 
+TÀI NĂNG 4 – CHỦ ĐỀ 5 
+ 
+TH – THCS NEWTON  5 
+Bài 9. Tìm số tự nhiên bé nhất lớn hơn 1 sao cho khi chia số đó cho 3, 5, 7 đều dư 1. 
+Bài 10. Cho a = x459y. Hãy thay x, y bởi những chữ số thích hợp để khi chia a cho 2, 
+5, 9 đều dư 1. 
+Bài 11. Tìm số tự nhiên bé nhất sao cho khi chia số đó cho 4 dư 3, cho 5 dư 4, cho 7 
+dư 6. 
+Bài 12. Tìm số tự nhiên bé nhất sao cho khi chia số đó cho 3 dư 1, cho 4 dư 2, cho 5 
+dư 3 và cho 7 dư 5. 
+Bài 13. Tìm số tự nhiên bé nhất sao cho khi chia số đó cho 4 dư 3, cho 5 dư 4, cho 7 
+dư 6. 
+Bài 14. Tìm số tự nhiên bé nhất sao cho khi chia số đó cho 3, 4, 5 đều dư 1 và khi chia 
+số đó cho 7 thì không còn dư. 
+Bài 15. Cho số A = 999…999 (2016 chữ số 9). Hỏi phải thêm vào A ít nhất bao nhiêu 
+đơn vị để được số chia hết cho 45? 
+Bài 16. Cho số 55….555 (2016 chữ số 5). Hỏi phải thêm ít nhất bao nhiêu đơn vị để 
+được số mới chia hết cho 40. 
+Bài 17. Cho số 777…777 (2016 chữ số 7). Hỏi phải thêm ít nhất bao nhiêu đơn vị để 
+được 1 số mới chia hết cho 55? 
+Bài 18. Cho 4 chữ số 0, 1, 5 và 8. Lập được bao nhiêu số có 3 chữ số khác nhau và 
+chia hết cho 6. 
+Bài 19. Một người bán hàng có 5 hộp, mỗi hộp đựng cam hoặc táo. Số quả cam, hoặc 
+táo trong các hộp lần lượt là: 40, 45, 50, 65, 71. Sau khi bán đi 1 hộp thì còn lại số 
+cam gấp 3 lần số táo. Hỏi còn lại bao nhiêu quả táo? 
+Bài 20. Lúc đầu có 5 miếng bìa, người ta lấy ra 1 miếng bìa bất kì rồi chia miếng bìa 
+đó thành 6 miếng nhỏ. Lại tiếp tục lấy 1 miếng khác rồi chia làm 6 miếng nhỏ như thế. 
+Hỏi sau 1 số bước ta có thể nhận được đúng 2016 miếng bìa hay không? Giải thích tại 
+sao? 
+Bài 21. Tổng số học sinh khối 5 của một trường là một số có 3 chữ số có chữ số hàng 
+trăm bằng 3. Nếu các em xếp hàng 10 hoặc hàng 12 đều dư 8, mà xếp hàng 8 thì không 
+dư. Tính số học sinh của trường đó? 
+Bài 22. Có 99 miếng bìa. Người ta đánh số thứ tự từ 1 đến 99 lên mặt phải của chúng 
+rồi úp các miếng bìa đó xuống, xáo trộn rồi lại đánh số từ 1 đến 99 lên mặt trái. Cộng 
+số ở hai mặt mỗi miếng bìa lại rồi nhân các kết quả với nhau. Hỏi kết quả là số chẵn 
+hay số lẻ, vì sao? 

@@ -1,0 +1,183 @@
+
+=== PDF PAGE 1 ===
+ 
+  
+1 
+ 
+TH – THCS NEWTON  5 
+TOÁN NÂNG CAO 4 
+CHUYÊN ĐỀ 2: DẠNG TOÁN LIÊN QUAN ĐẾN CHỮ SỐ TẬN CÙNG 
+Họ và tên: ………………………………………………   
+ 
+Lớp:…… 
+I. KIẾN THỨC CẦN NHỚ. 
+- Chữ số tận cùng của một tích bằng chữ số tận cùng của tích các chữ số hàng đơn vị 
+của các thừa số trong tích đó. 
+- Chữ số tận cùng của một tổng bằng chữ số tận cùng của tổng các chữ số hàng đơn vị 
+của các số hạng trong tổng đó. 
+II. CÁC DẠNG BÀI TẬP. 
+Dạng 1: Xác định chữ số tận cùng của một tích.  
+Cách giải: Tìm ra quy luật lặp lại của chữ số tận cùng, cũng như quy luật của các nhóm. 
+Lưu ý: 
+Số tận cùng là 5 nhân với nhau luôn tận cùng là 5. 
+Số tận cùng là 1 nhân với nhau luôn tận cùng là 1. 
+Số tận cùng là 6 nhân với nhau luôn tận cùng là 6. 
+Số tận cùng là 0 nhân với nhau luôn tận cùng là 0. 
+ 
+Bài 1. Tìm chữ số tận cùng của tích: 31 x 41 x 51 x … x 551 
+Bài 2. Tìm chữ số tận cùng của tích: 12 x 22 x 32 x …. x 112 
+Bài 3. Tìm chữ số tận cùng của tích 23 x 33 x 43 x … x 223.  
+Bài 4. Tìm chữ số tận cùng của tích 54 x 64 x 74 x … x 884.  
+Bài 5. Tìm chữ số tận cùng của tích 25 x 35 x 45 x … x 335. 
+Bài 6. Tìm chữ số tận cùng của tích 16 x 36 x 56 x … x 216. 
+Bài 7. Tìm chữ số tận cùng của tích 7 x 37 x 67 x … x 547. 
+Bài 8. Tìm chữ số tận cùng của tích 28 x 48 x 68 x … x 528. 
+Bài 9. Tìm chữ số tận cùng của tích 9 x 19 x 29 x … x 99. 
+Bài 10. Không làm phép tính, hãy cho biết kết quả của mỗi phép tính sau có tận cùng 
+bằng số nào? 
+a) 31 x 41 x 51 x 61 x 79 
+b) 12 x 22 x 32 x 62 x 72 x 82 x 7 
+c) 2 x 2 x …. x 2 x 3 x 3 … x 3 (có 50 thừa số 2, 50 thừa số 3) 
+d) 7 x 7 x …x 7 x 6 x 6 x …x 6 (có 25 thừa số 7, 50 thừa số 6) 
+e) 3 x 3 x ..x 3 x 6 x 6 x …x 6 (có 2025 thừa số 3, 2025 thừa số 6)  
+f) 2 x 2 x … x 2 x 3 x 3 x …x 3 x 5 (20 thừa số 2, 20 thừa số 3) 
+g) 3 x 3 x …x 3 x 8 x 8 x…x 8 x 9 x 9 x … x 9  (có 48 thừa số 3, 48 thừa số 8, 48 thừa 
+số 9). 
+ 
+
+
+=== PDF PAGE 2 ===
+ 
+  
+2 
+ 
+TH – THCS NEWTON  5 
+ Dạng 2: Xác định số chữ số 0 tận cùng của một tích.  
+- Tích một số chẵn với một số có tận cùng là 5 thì kết quả của tích có tận cùng là chữ 
+số 0. 
+- Tích các thừa số trong đó có ít nhất một thừa số có tận cùng bằng 0 thì tích đó có tận 
+cùng là chữ số 0. 
+- Một số chẵn có thể phân tích thành tích của một hay nhiều thừa số 2 với thừa số khác. 
+- Trong một tích có chứa thừa số 2 và có chứa thừa số 5 thì cứ một cặp thừa số  
+(2 x 5) cho ta một chữ số 0 tận cùng. 
+ 
+Bài 1. Tìm số chữ số 0 tận cùng của: 
+a) A = 2 x 6 x 12 x 5 x 10 x 15 
+b) B = 1 x 2 x 3 x … x 98 x 99 x 100. 
+c) C = 3 x 7 x 19 x 21 x 79 x 118 x 2021 x 2025 
+d) D = 2 x 4 x 8 x 23 x 87 x 2026  
+e) E =2 x 3 x 5 x 10 x 15 x 16 x 25 x 35 x 39 x 41 x 47 
+f) F = (14 x 16 x 18 x 22) x (15 x 25 x 35 x 45 x 55) 
+Bài 2. Các tích sau có bao nhiêu chữ số 0 ở tận cùng? 
+a) 11 x 12 x 13 x … x 62        
+ 
+b) 85 x 86 x 87 x … x 94 
+c) 2000 x 2001 x 2002 x … x 2026 
+ 
+d) 1 x 2 x 3 x ... x 126 
+e) 1 x 2 x 3 x .... x 625 
+ 
+ 
+f) 100 x 101 x 102 x...x 225 
+g) 2 x 6 x 12 x 20 x ... x 9900 
+Dạng 3: Tìm chữ số tận cùng của một biểu thức. 
+Bài 1. Hãy cho biết chữ số tận cùng của: 
+a) A = (2021 + 2022 + 2023 + ... + 2029) – (21 + 32 + 43 + ... + 98 + 19) 
+b) B = (12 + 23 + 34 + ... + 89 + 91)  91  73  55  37  19 
+c) C = 123  235  347  457  561 – 71  73  75  77  79 
+d) D = 81 x 82 x 83 x 84 + 85 x 86 + 87 x 88 x 89 x 90 + 91 x 92 x 93 
+e) E = 1  2  3  4  5  6  7 + 64 : 8 
+ 
+
+
+=== PDF PAGE 3 ===
+ 
+  
+3 
+ 
+TH – THCS NEWTON  5 
+Bài 2. Tìm chữ số tận cùng của: 
+a) A = 1 x 2 + 2 x 3 + 3 x 4 + 4 x 5 + 5 x 6 +...+ 2025 x 2026 
+b) B = 1 x 3 + 3 x 5 + 5 x 7 + 7 x 9 + 9 x 11 + 11 x 13 +...+ 2023 x 2025 
+c) C =1 x 3 + 1 x 3 x 5 + 1 x 3 x 5 x 7 +...+1 x 3 x 5 x 7 x ... x 2025 
+d) D = 1 + 1 x 2 + 1 x 2 x 3 + 1 x 2 x 3 x 4 +...+ 1 x 2 x 3 x ... x 2025 
+e) E = 1996 x 1997 x 1998 x 1999 + 2021 x 2022 x 2023 x 2024 
+Bài 3. Không thực hiện các phép tính, hãy cho biết chữ số hàng đơn vị của: 
+a) A = (1 999 + 2 378 + 4 545 + 7 956) – (315 + 598 + 736 + 89) 
+b) B = 1  3  5  7  9  ...  99 
+c) C = 56  66  76  86 – 51  61  71  81 
+Dạng 4. Số chẵn, số lẻ. 
+Bài 1. 
+ a) Nếu tổng của 2 số tự nhiên là 1 số lẻ, thì tích của chúng có thể là 1 số lẻ được 
+không? Vì sao? 
+b) Nếu tích của 2 số tự nhiên là 1 số lẻ, thì tổng của chúng có thể là 1 số lẻ được không? 
+Vì sao? 
+c) “Tổng” và “hiệu” hai số tự nhiên có thể là số chẵn, và số kia là lẻ được không? Vì 
+sao? 
+Bài 2. Tổng của các số tự nhiên liên tiếp từ 1 đến 2025 là một số chẵn hay số lẻ? 
+Bài 3. Tổng các số tự nhiên lẻ liên tiếp từ 1 đến 2025 là số chẵn hay số lẻ? 
+Bài 4.  Không cần làm tính, kiểm tra kết quả của phép tính sau đây đúng hay sai? 
+a) 1783 + 9789 + 375 + 8001 + 2797 = 22744 
+b) 1872 + 786 + 3748 + 3718 = 10115. 
+c) 5674 x 163 = 610783 
+Bài 5. Có thể thay a, b trong phép tính sau bởi những chữ số thích hợp để được một 
+phép tính đúng hay không? Tại sao? 
+a) 12
+12
+758
+a
+a
+a
+
+=
+  
+b) 3
+3
+17 7
+b
+b
+a
+
+=
+  
+c) 9𝑎× 9𝑎= 8643  
+
+
+=== PDF PAGE 4 ===
+ 
+  
+4 
+ 
+TH – THCS NEWTON  5 
+Bài 6. Không làm tính xét xem kết quả sau đúng hay sai? Giải thích tại sao? 
+a) 136 x 136 -  41 = 1960  
+ 
+ 
+ 
+b) 𝑎𝑏× 𝑎𝑏−8557 = 0 
+Bài 7. Có tồn tại các số tự nhiên a, b, c hay không sao cho số: 
+a) (2 x a + 1) x (2 x b – 1) x (2 x a x b x c + 1) = 2023 x 2025 x 2026 
+b) (a + b) x (b + c) x (c + a) = 2023 x 2025 x 2027 
+Bài 8. Có thể tìm được số tự nhiên A và B sao cho: (A + B)  (A – B) = 2002 được 
+không? Vì sao? 
+Bài 9. Có thể tìm được 1 số tự nhiên nào đó nhân với chính nó rồi trừ đi 2 hay 3 hay 
+7, 8 lại được 1 số tròn chục hay không? Giải thích vì sao? 
+Bài 10. Bạn Toàn tính tổng các số chẵn trong phạm vi từ 20 đến 98 được 2025. Không 
+thực hiện tính tổng em cho biết Toàn tính đúng hay sai? Vì sao? 
+Bài 11. Tùng tính tổng của các số lẻ từ 21 đến 99 được 2025. Không tính tổng đó em 
+cho biết Tùng tính đúng hay sai? 
+Bài 12. Tiến làm phép chia 1935 : 9 được thương là 216 và không còn dư. Không thực 
+hiện cho biết Tiến làm đúng hay sai. 
+Bài 13. Huệ tính tích: 
+2  3  5  7  11  13  17  19  23  29  31  37 = 3999 
+Không tính tích, em cho biết Huệ tính đúng hay sai? 
+Bài 14.  
+a) Số 1990 có thể là tích của 3 số tự nhiên liên tiếp được không? Vì sao? 
+b) Số 1995 có thể là tích của 3 số tự nhiên liên tiếp không? Vì sao? 
+c) Số 1993 có phải là tổng của 3 số tự nhiên liên tiếp không? Vì sao? 
+ 
+ 
+ 
+ 
+ 
+Chúc con làm bài tốt! 

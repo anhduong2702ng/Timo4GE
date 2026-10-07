@@ -1,0 +1,96 @@
+
+=== PDF PAGE 1 ===
+TH – THCS NEWTON 5 
+1 
+ 
+ 
+TOÁN NÂNG CAO – LỚP 4 
+CHUYÊN ĐỀ 2: CẤU TẠO SỐ 
+Họ và tên: ……………………………………………………… 
+Lớp:………… 
+I. KIẾN THỨC CẦN NHỚ. 
+𝑎𝑏̅̅̅ = a × 10 + b 
+𝑎𝑏𝑐̅̅̅̅̅ = a × 100 + b × 10 + c 
+𝑎𝑏𝑐𝑑̅̅̅̅̅̅̅ = a × 1000 + b × 100 + c × 10 + d 
+𝑎00̅̅̅̅̅ = a × 100 
+𝑎𝑎𝑎̅̅̅̅̅ = a × 111 
+𝑎𝑏𝑎𝑏̅̅̅̅̅̅̅ = 𝑎𝑏̅̅̅ × 101 
+𝑎𝑏𝑎𝑏𝑎𝑏̅̅̅̅̅̅̅̅̅̅ = 𝑎𝑏̅̅̅ × 10101 
+II. BÀI TẬP VẬN DỤNG.  
+Bài 1. Viết theo mẫu: 
+Mẫu: 315 = 300 + 10 + 5 = 3 × 100 + 1 × 10 + 5 
+a) 417 
+ 
+ 
+ 
+ 
+ 
+b) 5 750 
+c) 3𝑎5𝑏̅̅̅̅̅̅̅ 
+ 
+ 
+ 
+ 
+ 
+d) 60𝑏𝑐̅̅̅̅̅̅̅ 
+Bài 2. Tìm a, b, c biết: 
+a) 9𝑎̅̅̅̅ + 19 = 109  
+ 
+ 
+ 
+b) 𝑎3̅̅̅̅ – 19 = 44 
+𝑐) 𝑎42̅̅̅̅̅ + 𝑏5̅̅̅ + 10𝑐̅̅̅̅̅ = 789 
+ 
+ 
+d) 𝑎𝑏̅̅̅ x 9 = 2𝑎𝑏̅̅̅̅̅ 
+Bài 3. Tìm một số tự nhiên có hai chữ số biết rằng khi viết thêm số 12 vào bên trái số đó 
+ta được số mới lớn gấp 26 lần số phải tìm. 
+Bài 4. Tìm một số tự nhiên có ba chữ số biết rằng khi viết thêm chữ số 2 vào bên phải số 
+đó thì nó tăng thêm 4106 đơn vị. 
+Bài 5. Tìm một số tự nhiên có hai chữ số, biết rằng khi viết thêm chữ số 0 vào giữa chữ 
+số hàng chục và chữ số hàng đơn vị của số đó, ta được một số mới gấp 10 lần số ban đầu. 
+Khi viết thêm chữ số 1 vào bên trái số mới vừa nhận được, ta được một số gấp 3 lần số 
+mới đó. Tìm số tự nhiên ban đầu. 
+Bài 6. Tìm số có 3 chữ số biết rằng nếu ta xóa chữ số hàng trăm thì số đó giảm đi 7 lần. 
+Bài 7. Tìm số tự nhiên có hai chữ số biết rằng số đó gấp 5 lần tổng các chữ số của nó. 
+ 
+
+
+=== PDF PAGE 2 ===
+TH – THCS NEWTON 5 
+2 
+ 
+ 
+Bài 8. Tìm một số tự nhiên biết rằng nếu viết thêm vào bên phải số đó số 99 ta được số 
+mới lớn hơn số đã cho 4950 đơn vị. 
+Bài 9. Tìm số có 2 chữ số biết rằng khi ta viết thêm chữ số 0 xen giữa 2 chữ số của nó ta 
+sẽ được số mới gấp 9 lần số cần tìm? 
+Bài 10. Tìm số có 2 chữ số biết rằng khi ta viết thêm chữ số 5 vào bên phải số đó ta được 
+số mới hơn số cần tìm 230 đơn vị? 
+Bài 11. So sánh hai biểu thức A và B biết : 
+A = 𝑎𝑏𝑐̅̅̅̅̅ + 𝑑𝑐̅̅̅ + 1992 
+ 
+ 
+B = 19𝑏𝑐̅̅̅̅̅̅̅ + 𝑑2̅̅̅̅ + 𝑎9𝑐̅̅̅̅̅ 
+Bài 12. Tìm một số có ba chữ số biết rằng tổng các chữ số của số đó bằng 26 và khi đổi 
+chỗ chữ số hàng trăm và chữ số hàng đơn vị cho nhau thì số đó không đổi. 
+Bài 13. Tìm một số tự nhiên có ba chữ số, biết rằng số đó gấp 5 lần tích các chữ số của nó. 
+Bài 14. Một người viết liên tiếp nhóm chữ “CHAMHOCCHAMLAM” thành dãy 
+CHAMHOCCHAMLAMCHAMHOCCHAMLAM... 
+a, Chữ cái thứ 1000 trong dãy là chữ gì? 
+b, Nếu người ta viết liên tiếp 2026 nhóm chữ “CHAMHOCCHAMLAM” và đếm được 
+trong dãy có 6078 chữ H thì đếm được bao nhiêu chữ A? 
+c) Người ta tô màu các chữ cái trong dãy đó theo thứ tự: xanh, đỏ, tím, vàng, nâu, xanh, 
+đỏ, tím, vàng, nâu, …. Hỏi chữ cái thứ 2007 trong dãy được tô màu gì? 
+Bài 15. Tìm số còn thiếu trong bảng dưới đây 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chúc con làm bài tốt! 

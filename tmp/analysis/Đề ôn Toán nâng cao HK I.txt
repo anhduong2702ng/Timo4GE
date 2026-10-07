@@ -1,0 +1,135 @@
+
+=== PDF PAGE 1 ===
+Toán nâng cao 
+Ôn tập cuối học kỳ 1 
+Bài 1. Tìm số có 2 chữ số biết rằng khi ta viết thêm chữ số 7 vào bên phải số đó ta được số mới 
+hơn số cần tìm 682 đơn vị. 
+Bài giải 
+Gọi số cần tìm là 𝑎𝑏̅̅̅ (a khác 0; a, b < 10) 
+Số mới là 𝑎𝑏7̅̅̅̅̅ 
+Theo bài ra, ta có: 𝑎𝑏7̅̅̅̅̅ – 682 = 𝑎𝑏̅̅̅ 
+𝑎𝑏̅̅̅ 𝑥 10 + 7 −682 = 𝑎𝑏̅̅̅ 
+𝑎𝑏̅̅̅ x 10 - 𝑎𝑏̅̅̅ = 675 
+𝑎𝑏̅̅̅ x 9 = 675 
+𝑎𝑏̅̅̅ = 75 
+Vậy số cần tìm là 75 
+Bài 2. Tổng của hai số lẻ bằng 700. Tìm hai số đó, biết rằng giữa chúng có 5 số chẵn liên tiếp. 
+Bài giải 
+Hiệu của 2 số đó là: 1 + 2 x ( 5 – 1) + 1 = 10 
+Số lớn là: (700 + 10) :  2 = 355 
+Số bé là: 355 – 10 = 345 
+Đáp số: Số lớn: 355, Số bé: 345 
+Bài 3. Tính giá trị biểu thức a – b + c – d + e – f biết: a + c + e = 128 924, b + d + f = 27 596. 
+Giải 
+a – b + c – d + e – f  
+= (a + c + e) – ( b + d + f)  
+= 128 924 – 27 596  
+= 101 328 
+ 
+ 
+
+
+=== PDF PAGE 2 ===
+Bài 4. Cho tổng của 2 số lẻ liên tiếp là 3160. Tìm hai số lẻ đó. 
+Bài giải 
+Hiệu của 2 số lẻ liên tiếp là: 2 
+Số lớn là: (3160 + 2) : 2 = 1581 
+Số bé là: 1581 – 2 = 1579 
+Đáp số: Số lớn: 1581, Số bé 1579 
+Bài 5. Tính tuổi của bà và cháu biết hiện nay biết tổng số tuổi của 2 bà cháu là 93 tuổi. Hai năm 
+trước, bà hơn cháu 69 tuổi.  
+Bài giải 
+Vì hiệu số tuổi của hai bà cháu không thay đổi theo thời gian nên hiện nay bà hơn cháu 69 tuổi. 
+Tuổi bà hiện nay là: 
+(93 + 69) : 2 = 81 (tuổi) 
+Tuổi cháu hiện nay là: 
+81 – 69 = 12 (tuổi) 
+Đáp số: Bà: 81 tuổi, Cháu: 12 tuổi 
+Bài 6. Tích 80 x 81 x 82 x ...x 88 x 89 có bao nhiêu chữ số 0 tận cùng? 
+Bài giải 
+Số các số chia hết cho 5 là: 80 và 85 
+Số các số chia hết cho 2 là: (88 – 80) : 2 + 1 = 5 (số) 
+Nhận xét: Số các số chia hết cho 2 > số các số chia hết cho 5. 
+Vậy tích trên có số chữ số 0 tận cùng là: 2 (chữ số) 
+Đáp số: 2 chữ số 0 tận cùng. 
+Bài 7. Khu vườn hình chữ nhật có chu vi là 68m. Biết chiều dài hơn chiều rộng 6m. Cứ 7 𝑚2 
+người ta trồng được 4kg cà chua. Hỏi thu hoạch được tất cả bao nhiêu ki-lô-gam cà chua? 
+Bài giải 
+Nửa chu vi của khu vườn hình chữ nhật là: 68 : 2 = 34 (m) 
+Chiều dài của khu vườn là: (34 + 6) : 2 = 20 (m) 
+
+
+=== PDF PAGE 3 ===
+10m 
+30m 
+A 
+B 
+E 
+C 
+D 
+G 
+H 
+Chiều rộng của khu vườn là: 34 – 20 = 14 (m) 
+Diện tích của khu vườn là: 20 x 14 = 280 (𝑚2)  
+Thu hoạch được tất cả số ki-lô-gam cà chua là: (280 : 7) x 4 = 160 (kg) 
+Bài 8. Tìm số nhỏ nhất có 5 chữ số sao cho đem số đó chia cho 9548 thì được số dư là số dư lớn nhất. 
+Bài giải 
+Vì số chia là 9548 nên số dư lớn nhất là 9547. 
+Số nhỏ nhất có 5 chữ số khi chia cho 9548 có số dư là 9547 khi thương bằng 1. 
+Số cần tìm là: 1 x 9548 + 9547 = 19 095 
+Đáp số: 19 095 
+Bài 9. Tích 1900 x 1901 x 1902 x … x 1926 có bao nhiêu chữ số 0 tận cùng? 
+Bài giải 
+Số các số chia hết cho 5 là: (1925 – 1900) : 5 + 1 = 6 (số) 
+Số các số chia hết cho 25 là: (1925 – 1900) : 25 + 1 = 2 (số) 
+Số các số chia hết cho 2 là: (1926 – 1900) : 2 + 1 = 14 (số) 
+Nhận xét: Số các số chia hết cho 2 > số các số chia hết cho 5 và 25.  
+Vậy tích trên có số chữ số 0 tận cùng là: 6 + 2 = 8 (chữ số) 
+Đáp số: 8 chữ số 0 tận cùng. 
+Bài 10. Tính diện tích hình vuông ABCD biết chu vi của hình chữ nhật AEGH là 120m. 
+ 
+ 
+ 
+ 
+ 
+ 
+Cách 1: 
+Nửa chu vi của hình chữ nhật là: 120 : 2 = 60 (m) 
+Chiều dài hình chữ nhật hơn chiều rộng hình chữ nhật là: 30 + 10 = 40 (m) 
+Chiều dài hình chữ nhật là: (60 + 40) : 2 = 50 (m) 
+
+
+=== PDF PAGE 4 ===
+Độ dài cạnh hình vuông là: 50 – 30 = 20 (m) 
+Diện tích hình vuông là: 20 x 20 = 400 (𝑚2) 
+Cách 2: 
+Chu vi hình vuông ban đầu là: 
+120 – (30 x 2) + (10 x 2) = 80 (m) 
+Độ dài cạnh hình vuông ban đầu là: 80 : 4 = 20 (m) 
+Diện tích hình vuông là: 20 x 20 = 400 (𝑚2) 
+Bài 11. Một cửa hàng có 398 lít nước mắm đựng trong 2 thùng. Nếu chuyển 50 lít từ thùng thứ 
+nhất sang thùng thứ hai thì thùng thứ hai hơn thùng thứ nhất 16 lít. Hỏi lúc đầu mỗi thùng chứa 
+bao nhiêu lít nước mắm? 
+Bài giải 
+Cách 1: 
+Lúc đầu thùng thứ nhất hơn thùng thứ hai số nước mắm là: 50 + 50 – 16 = 84 (l) 
+Lúc đầu thùng thứ hai có số nước mắm là: (398 – 84) : 2 = 157 (l) 
+Lúc đầu thùng thứ nhất có số nước mắm là: 157 + 84 = 241 (l) 
+Cách 2: 
+Sau khi chuyển, thùng thứ nhất có số nước mắm là: (398 – 16) : 2 = 191 (l) 
+Lúc đầu thùng thứ nhất có số nước mắm là: 191 + 50 = 241 (l) 
+Lúc đầu thùng thứ hai có số nước mắm là: 398 – 241 = 157 (l) 
+Bài 12. Một miếng đất hình chữ nhật có chu vi 162m, chiều dài hơn chiều rộng là 9m. 
+a) Hỏi miếng đất có diện tích bằng bao nhiêu?  
+b) Người ta mua xốp để trải xuống nền miếng đất đó. Biết của mỗi 1 mét vuông hết 1300 đồng. 
+Hỏi để trải kín nền miếng đất đó thì hết bao nhiêu tiền? 
+Bài giải 
+Nửa chu vi là: 162 : 2 = 81 (m) 
+Chiều dài mảnh đất là: (81 + 9) : 2 = 45 (m) 
+
+
+=== PDF PAGE 5 ===
+Chiều rộng mảnh đất là: 81 – 45 = 36 (m) 
+Diện tích mảnh đất là: 45 x 36 = 1620 (𝑚2) 
+Cần số tiền là: 1620 x 1300 : 1 = 2 106 000 (đồng) 
+ 

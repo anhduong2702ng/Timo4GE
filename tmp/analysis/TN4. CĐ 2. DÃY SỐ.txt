@@ -1,0 +1,98 @@
+
+=== PDF PAGE 1 ===
+ 
+  
+ 
+1                                                                                                              TOÁN 4 – CHUYÊN ĐỀ 2 
+ 
+TH – THCS NEWTON  5 
+CHUYÊN ĐỀ 2: DÃY SỐ CÁCH ĐỀU 
+A. Kiến thức cần nhớ 
+a) Tìm quy luật và viết thêm số hạng 
+Nếu quy luật của dãy số là: Mỗi số hạng (kể từ số hạng thứ hai) bằng số hạng đứng 
+liền trước nó cộng (trừ) với một số tự nhiên d thì:  
+Số số hạng của dãy = (số hạng lớn nhất – số hạng bé nhất) : d +1 
+b) Tính tổng các số hạng của dãy số cách đều:  
+Tổng = (số đầu + số cuối) x số số hạng : 2 
+c) Tìm số hạng thứ n của dãy 
+ 
+Dãy số tiến:  Số thứ n = Số thứ nhất + (n – 1) x khoảng cách  
+ 
+Dãy số lùi: Số thứ n = Số thứ nhất – (n – 1) x khoảng cách 
+d) Tìm số chữ số khi biết số số hạng hoặc ngược lại. 
+B. Bài tập 
+Bài 1. Tìm quy luật và viết thêm 3 số hạng còn thiếu vào dãy số: 
+a) 5; 6; 11; 17; 28; … 
+ 
+ 
+b) 0; 1; 2; 4; 7; 12; … 
+c) 0; 1; 3; 6; 10; 15; … 
+ 
+ 
+d) 3; 12; 30; 57; 93; … 
+e) 1; 100; 7; 93; 13; 86; …  
+ 
+f) 1; 1; 3; 5; 17; … 
+Bài 2. Tìm số hạng đầu tiên của dãy số sau: 
+a) …; 24; 27; 30 
+ 
+b) …; 47; 52; 57 
+ 
+c) …; 64; 81; 100 
+Biết rằng mỗi dãy số đều có 10 số hạng. 
+Bài 3. Tìm các số ở nhóm thứ 15 theo quy luật dưới đây: 
+a) (1, 3, 5); (2, 6, 8); (3, 9, 11); … 
+b) (1, 4, 8); (2, 8, 12); (3, 12, 16); … 
+c) (1, 3, 6); (2, 6, 9); (3, 9, 12); … 
+Bài 4. Tìm số hạng thứ 50 của dãy số sau: 
+a) 1; 4; 7; 10; … 
+ 
+ 
+b) …; 390; 395; 400 (biết dãy số này có 80 số hạng) 
+Bài 5. Cho dãy số: 2; 3; 5; 8; 12; …. 
+a) Viếp 2 số hạng vào dãy. 
+b) Tìm số hạng thứ 100 của dãy. 
+Bài 6. Cho dãy số: 2; 6; 12; 20; 30; 42; …; 10302. Hỏi dãy số đó có bao nhiêu số hạng? 
+ 
+
+
+=== PDF PAGE 2 ===
+ 
+  
+ 
+2                                                                                                              TOÁN 4 – CHUYÊN ĐỀ 2 
+ 
+TH – THCS NEWTON  5 
+Bài 7. Cho dãy số 1, 1, 2, 3, 5, 8, 13, …, 89. Hãy điền đủ các số hạng vào phần trống rồi 
+xoá đi một nửa chữ số của dãy mà vẫn giữ nguyên thứ tự của các chữ số còn lại để được 
+một số nhỏ nhất. Viết số đó. 
+Bài 8. Cho dãy số 6; 7; 9; 12; 16 ..... Hỏi số 61 là số hạng thứ bao nhiêu của dãy? 
+Bài 9. Cho dãy số 2, 17, 47, 92, 152, … Tìm số hạng thứ 120 của dãy ? 
+Bài 10. Tìm số hạng thứ 50 của dãy số sau: 5; 9; 13; 17; … 
+Bài 11. Các số tự nhiên được sắp xếp theo quy luật dưới đây: 
+1 
+2  3 
+4  5  6 
+7  8  9  10 
+11  12  13  14  15 
+Hỏi số 100 thuộc hàng nào? 
+Bài 12. Cho dãy số: 12; 16; 20; 24; 28; … 
+a) Tìm số hạng thứ 90 của dãy. 
+b) Hãy cho biết trong các số 2022; 2023; 2024; 2025 số nào thuộc dãy? Vì sao? Nếu thuộc 
+nó là số hạng thứ bao nhiêu của dãy? 
+c) Tính tổng 50 số hạng đầu tiên của dãy. 
+Bài 13. Cho dãy số 10; 11; 12; 13; …; x. Tìm x để tổng các số hạng của dãy số đó bằng 
+5106. 
+Bài 14. Người ta viết liền nhau dãy các số tự nhiên chẵn liên tiếp 
+24681012141618202224… Hỏi chữ số thứ 2000 của dãy trên là chữ số nào? 
+Bài 15. Cho dãy số 2; 0; 2; 4; 2; 0; 2; 4; 2; 0; 2; 4; 2; 0; 2; 4; ... Hỏi: 
+a) Số hạng thứ 2024 của dãy trên là số nào?  
+b) Tính tổng của 2024 số hạng đầu tiên.  
+c) Có bao nhiêu số 2 xuất hiện trong 2024 số đầu tiên? 
+Bài 16. Một người viết liên tiếp nhóm chữ cái: 
+VUIHOCTOAN VUIHOCTOAN …. 
+a) Chữ cái thứ 2112 là chữ cái nào? 
+b) Tô màu lần lượt các chữ cái bằng 6 màu Đỏ, Cam, Vàng, Lục, Lam, Tím. Hỏi chữ V thứ 
+150 được tô màu gì? Chữ O thứ 135 được tô màu gì? 
+Chúc các con học tập tốt! 
+ 

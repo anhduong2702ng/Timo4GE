@@ -1,0 +1,378 @@
+
+=== VL DE 1 ===
+01 PDF6 SOL61: Dựa vào quy luật dưới đây, tìm số thứ 7 trong dãy.
+02 PDF6 SOL61: Hôm nay là thứ Sáu. Hỏi 44 ngày trước là thứ mấy trong tuần?
+03 PDF6 SOL61: Có một số học sinh trong lớp học. Vào giờ nghỉ, một nửa lớp ra ngoài chơi bóng đá. Tiếp theo, 9 học sinh ra ngoài chơi cầu lông. Sau đó, một nửa số học sinh còn lại đi xuống nhà ăn của trường. Cuối cùng, chỉ còn lại 6 học sinh ở trong lớp. Hỏi lúc đầu trong lớp có bao nhiêu học sinh?
+04 PDF6 SOL61: Dựa vào quy luật dưới đây, có bao nhiêu hình vuông trong 50 hình vẽ đầu tiên?
+05 PDF6 SOL61: Trên một cánh đồng có 30 con vật gồm con vịt và con cừu. Tổng số chân của chúng là 100 cái chân. Hỏi có bao nhiêu con vịt trên cánh đồng?
+06 PDF6 SOL62: Tính 90
+07 PDF7 SOL62: Tìm giá trị của 2
+08 PDF7 SOL62: Tính 45 15
+09 PDF7 SOL62: Tìm giá trị của 40
+10 PDF7 SOL62: Mỗi chữ cái T, I, M, O là một chữ số phân biệt. Tìm giá trị của M trong tổng dưới đây.
+11 PDF7 SOL62: Tìm số chẵn lớn nhất có 3 chữ số sao cho số đó chia hết cho 3.
+12 PDF7 SOL63: Tìm chữ số tận cùng của 9 (2025 số 9).
+13 PDF7 SOL63: Định nghĩa phép toán như sau . Tìm giá trị của 9
+14 PDF7 SOL63: Biết 2025A là số lẻ có 5 chữ số chia hết cho 3, tìm giá trị nhỏ nhất của A.
+15 PDF8 SOL63: Ashley và Bell có tất cả 18 dây buộc tóc. Ashley có số dây buộc tóc gấp đôi Bell. Hỏi Bell có bao nhiêu dây buộc tóc?
+16 PDF8 SOL63: Hỏi có bao nhiêu hình chữ nhật chứa biểu tượng mặt trăng trong hình vẽ dưới đây?
+17 PDF8 SOL63: Một hình vuông nhỏ có chu vi 16 cm được ghép với hai hình chữ nhật để tạo thành một hình vuông lớn có chu vi 24 cm. Hình vẽ được cho như dưới đây. Hãy tìm tổng diện tích của hai hình chữ nhật đã cho theo đơn vị cm2.
+18 PDF8 SOL64: Diện tích của hình chữ nhật là 30. Nếu độ dài cạnh của hình chữ nhật là các số tự nhiên, hãy tìm chu vi nhỏ nhất của hình chữ nhật đó.
+19 PDF9 SOL64: Hỏi có thể nhìn thấy ít nhất bao nhiêu mặt hình vuông khi quan sát hình dưới đây từ bên phải?
+20 PDF9 SOL64: Jerry vẽ và tô màu một cái cổng vào vở ô li của anh ấy như hình dưới đây. Hãy tính diện tích của phần được tô màu theo đơn vị cm2, biết rằng mỗi ô trong vở ô li có cạnh dài 1 cm.
+21 PDF9 SOL64: Trong một chiếc hộp, có 9 lá bài màu xanh, 6 lá bài màu đỏ và 10 lá bài màu vàng. Jack lấy lá bài ra mà không nhìn vào trong hộp. Hỏi Jack cần lấy ra ít nhất bao nhiêu lá bài để anh ấy chắc chắn lấy được 4 lá bài màu đỏ?
+22 PDF9 SOL65: Hỏi có bao nhiêu số chẵn có hai chữ số mà cả hai chữ số đều nhỏ hơn 5?
+23 PDF10 SOL65: Hỏi có bao nhiêu số có 2 chữ số mà chia hết cho 3?
+24 PDF10 SOL65: Một cầu thang có 11 bậc. Mỗi lần bước, Henry có thể đi lên 1 bậc hoặc 2 bậc. Bậc thứ 5 bị hỏng nên không thể bước lên được. Hỏi Henry có bao nhiêu cách để đi hết cầu thang?
+25 PDF10 SOL65: Derek muốn đi đến nhà hàng nhưng anh ấy chỉ được di chuyển lên trên hoặc sang phải dọc theo các đường thẳng trong bản đồ dưới đây. Hỏi Derek có bao nhiêu cách đi đến nhà hàng?
+
+=== VL DE 2 ===
+01 PDF11 SOL66: Dựa vào quy luật dưới đây, có bao nhiêu lá cờ Việt Nam trong 41 lá cờ đầu tiên tính từ bên trái?
+02 PDF11 SOL66: Ngày mai là Chủ Nhật. Hỏi 50 ngày nữa tính từ hôm nay là thứ mấy?
+03 PDF11 SOL66: Trong nông trại địa phương có 42 con vật gồm gà và ngựa. Tổng số chân của chúng là 108 chân. Hỏi có bao nhiêu con ngựa trong nông trại?
+04 PDF11 SOL66: Dựa vào quy luật dưới đây, tìm số thứ 8 ở trong dãy.
+05 PDF11 SOL66: Trong ngày đầu tiên, một cửa hàng bán được 29 chiếc điện thoại. Trong ngày thứ hai, cửa hàng bán được một nửa số điện thoại còn lại. Trong ngày thứ ba, cửa hàng bán thêm được 25 chiếc điện thoại nữa. Họ thấy rằng còn lại 15 chiếc điện thoại ở cửa hàng. Hỏi ban đầu cửa hàng có bao nhiêu chiếc điện thoại?
+06 PDF12 SOL67: Tính 150
+07 PDF12 SOL67: Tìm giá trị của 3
+08 PDF12 SOL67: Tính 212
+09 PDF12 SOL67: Tìm giá trị của 60
+10 PDF12 SOL67: Cho A, B và C là các chữ số khác nhau, hãy tìm giá trị của B để được phép tính đúng dưới đây.
+11 PDF12 SOL67: Hãy tìm số lớn nhất có 4 chữ số khác nhau sao cho số đó chia hết cho 5.
+12 PDF12 SOL67: Tìm chữ số tận cùng của 4 4 4 4... 4 (2024 số 4).
+13 PDF12 SOL68: Định nghĩa phép toán như sau . Tìm giá trị của 3
+14 PDF13 SOL68: Tổng của M và N là 30. M gấp 9 lần N. Tìm giá trị của M.
+15 PDF13 SOL68: Biết 2024X là số có 5 chữ số chia hết cho 2 và 3, tìm giá trị của X.
+16 PDF13 SOL68: Hỏi có bao nhiêu hình chữ nhật chứa lá cờ trong hình dưới đây?
+17 PDF13 SOL68: Cho một hình vuông lớn có cạnh dài 9 cm được tạo bởi 3 hình vuông nhỏ giống hệt nhau và 2 hình chữ nhật giống hệt nhau. Diện tích của một hình vuông nhỏ là 9 cm2. Tính chu vi của một hình chữ nhật tô đậm.
+18 PDF13 SOL68: Diện tích của hình chữ nhật là 24. Nếu cạnh của hình chữ nhật là các số tự nhiên, hãy tìm chu vi lớn nhất của hình chữ nhật đó.
+19 PDF14 SOL69: Hỏi có thể nhìn thấy ít nhất bao nhiêu mặt hình vuông khi quan sát hình dưới đây từ đằng trước?
+20 PDF14 SOL69: Teddy vẽ và tô màu một con thuyền vào vở ô li của anh ấy như hình dưới đây. Hãy tính diện tích của phần được tô màu theo đơn vị cm2, biết rằng mỗi ô trong vở ô li có cạnh dài 1cm.
+21 PDF14 SOL69: Trong một chiếc hộp bút, có 8 bút chì xanh, 6 bút chì đỏ và 7 bút chì đen. Laura lấy bút chì ra mà không nhìn vào trong hộp. Hỏi Laura cần lấy ra ít nhất bao nhiêu chiếc bút chì để chắc chắn rằng cô bé lấy được 3 bút chì khác màu?
+22 PDF14 SOL69: Hỏi có bao nhiêu số có hai chữ số mà tổng 2 chữ số đó là 12?
+23 PDF15 SOL69: Hỏi có bao nhiêu số có 2 chữ số mà chia hết cho 5?
+24 PDF15 SOL70: Một cầu thang có 10 bậc. Mỗi lần bước, Tom có thể đi lên 1 bậc hoặc 2 bậc. Biết bậc thứ 7 bị hỏng nên không thể bước lên được. Hỏi Tom có bao nhiêu cách để đi hết cầu thang?
+25 PDF15 SOL70: Arthur muốn đi đến bảo tàng nhưng anh ấy chỉ được di chuyển lên trên hoặc sang phải dọc theo con đường trong bản đồ dưới đây. Hỏi Arthur có bao nhiêu cách đi đến bảo tàng?
+
+=== VL DE 3 ===
+01 PDF16 SOL71: Dựa vào quy luật dưới đây, có bao nhiêu chữ cái “O” trong 223 chữ cái đầu tiên tính từ bên trái?
+02 PDF16 SOL71: Hôm qua là thứ Năm. Hỏi 40 ngày nữa tính từ hôm nay là thứ mấy?
+03 PDF16 SOL71: Trong sở thú có 35 con vật gồm chim cánh cụt và hươu cao cổ. Tổng số chân của chúng là 94 chân. Hỏi có bao nhiêu con hươu cao cổ?
+04 PDF16 SOL71: Dựa vào quy luật dưới đây, tìm số thứ 10 ở trong dãy.
+05 PDF16 SOL71: Trong ngày đầu tiên, một cửa hàng bán được 16 chiếc xe. Trong ngày thứ hai, cửa hàng bán được một nửa số xe còn lại. Trong ngày thứ ba, cửa hàng bán thêm được 15 chiếc xe nữa. Họ thấy rằng còn lại 7 chiếc xe ở cửa hàng. Hỏi ban đầu cửa hàng có bao nhiêu chiếc xe đạp?
+06 PDF16 SOL71: Tính
+07 PDF16 SOL72: Tìm giá trị của
+08 PDF17 SOL72: Tính
+09 PDF17 SOL72: Tìm giá trị của
+10 PDF17 SOL72: Cho A, B và C là các chữ số khác nhau, hãy tìm giá trị của C để được phép tính đúng dưới đây.
+11 PDF17 SOL72: Hãy tìm số nhỏ nhất có 4 chữ số chia hết cho 9 mà các chữ số không lặp lại.
+12 PDF17 SOL72: Tìm chữ số tận cùng của  3... 3 (2023 số 3).
+13 PDF17 SOL73: Định nghĩa phép toán:  b . Tìm giá trị của 
+14 PDF17 SOL73: Tổng của A và B là 42. A gấp 5 lần B. Tìm giá trị của A.
+15 PDF17 SOL73: Biết 20233A là số có 6 chữ số chia hết cho 3 nhưng không chia hết cho 2, tìm giá trị của A.
+16 PDF18 SOL73: Trong hình dưới đây có bao nhiêu hình chữ nhật chứa chiếc kẹo?
+17 PDF18 SOL73: Hình vẽ dưới đây là một hình vuông lớn có cạnh dài 12cm được tạo bởi 4 hình chữ nhật giống hệt nhau và 1 hình vuông nhỏ. Diện tích của hình vuông nhỏ là 36 cm2. Tìm diện tích của một hình chữ nhật.
+18 PDF18 SOL73: Diện tích của hình chữ nhật là 30. Nếu cạnh của hình chữ nhật là các số tự nhiên, hãy tìm chu vi nhỏ nhất của hình chữ nhật đó.
+19 PDF18 SOL73: Hỏi có thể nhìn thấy ít nhất bao nhiêu hình vuông nhỏ khi quan sát hình dưới đây từ đằng trước?
+20 PDF19 SOL74: Andy vẽ và tô màu số 2022 vào vở ô li như hình dưới đây. Hãy tính diện tích của phần được tô màu theo đơn vị cm2, biết rằng mỗi ô trong vở ô li có cạnh dài 1cm.
+21 PDF19 SOL74: Hỏi có bao nhiêu số có hai chữ số mà hiệu 2 chữ số đó là 3?
+22 PDF19 SOL74: Trong một chiếc hộp, có 7 bóng xanh, 5 bóng đỏ và 6 bóng đen. Anna lấy bóng ra mà không nhìn vào trong hộp. Hỏi Anna cần lấy ra ít nhất bao nhiêu quả bóng để chắc chắn rằng cô lấy được 2 quả bóng khác màu?
+23 PDF19 SOL74: Hỏi có bao nhiêu số có 2 chữ số mà chia hết cho 4?
+24 PDF19 SOL74: Một cầu thang có 9 bậc. Mỗi lần bước, Daisy có thể đi lên 1 bậc hoặc 2 bậc. Biết bậc thứ 5 bị hỏng nên không thể bước lên được. Hỏi Daisy có bao nhiêu cách để đi hết cầu thang?
+25 PDF19 SOL74: Thomas muốn đến trường nhưng anh ấy chỉ được di chuyển lên trên hoặc sang phải dọc theo con đường trong bản đồ dưới đây. Hỏi Thomas có bao nhiêu cách đi đến trường?
+
+=== VL DE 4 ===
+01 PDF21 SOL75: Dựa vào quy luật dưới đây, tìm chữ cái thứ 2022 tính từ phía bên trái.
+02 PDF21 SOL75: Ngày mai là thứ Sáu. Hỏi 30 ngày nữa tính từ hôm nay là thứ mấy?
+03 PDF21 SOL75: Jane có các tờ tiền 5 đô-la và 2 đô-la. Cô bé có tất cả 10 tờ tiền với tổng giá trị là 32 đô-la. Hỏi Jane có bao nhiêu tờ 5 đô-la?
+04 PDF21 SOL75: Dựa vào quy luật dưới đây, tìm số tiếp theo ở trong dãy.
+05 PDF21 SOL75: Lucy đã đọc xong một quyển sách trong 3 ngày. Ngày đầu tiên, Lucy đọc được 23 trang. Ngày thứ hai, cô bé đọc được một nửa số trang còn lại. Ngày cuối cùng, cô bé đọc được 15 trang. Hỏi quyển sách của Lucy có tất cả bao nhiêu trang?
+06 PDF21 SOL75: Tính 72
+07 PDF21 SOL76: Tìm giá trị của 2
+08 PDF22 SOL76: Tính 100 9
+09 PDF22 SOL76: Tìm giá trị của 50
+10 PDF22 SOL76: Cho X và Y là 2 chữ số khác nhau, hãy tìm giá trị của Y để được phép tính đúng dưới đây.
+11 PDF22 SOL76: Hỏi số nhỏ nhất có 4 chữ số chia hết 3 là số nào?
+12 PDF22 SOL76: Tìm chữ số tận cùng của 4 4 4 ... 4 (2022 số 4).
+13 PDF22 SOL76: Định nghĩa phép toán sau . Tìm giá trị của 4 5
+14 PDF22 SOL76: Hiệu của A và B là 24. A gấp 7 lần B. Tìm giá trị của A.
+15 PDF22 SOL77: Biết 45233B là số có 6 chữ số chia hết cho cả 2 và 5, tìm giá trị của B.
+16 PDF23 SOL77: Trong hình dưới đây có bao nhiêu hình chữ nhật chứa biểu tượng hình Trái Đất?
+17 PDF23 SOL77: Một mảnh giấy hình vuông có chu vi 36cm được cắt thành 9 hình vuông nhỏ hơn y hệt nhau. Tính chu vi của mỗi hình vuông nhỏ.
+18 PDF23 SOL77: Hỏi có thể nhìn thấy ít nhất bao nhiêu hình vuông nhỏ khi quan sát hình dưới đây từ đằng trước?
+19 PDF23 SOL77: Diện tích của hình chữ nhật là 40. Nếu cạnh của hình chữ nhật là các số tự nhiên, hỏi chu vi nhỏ nhất của hình chữ nhật là bao nhiêu?
+20 PDF23 SOL78: Jenny viết và tô màu 4 chữ cái T I M O vào vở ô li như hình vẽ dưới đây. Hãy tính diện tích của phần được tô màu theo đơn vị cm2 biết rằng mỗi ô trong vở ô li có cạnh dài 1cm.
+21 PDF24 SOL78: Hỏi có bao nhiêu số có hai chữ số mà chứa chữ số 1?
+22 PDF24 SOL78: Trong một chiếc hộp, có 10 bóng xanh, 7 bóng đỏ và 8 bóng đen. Lucy lấy bóng ra mà không nhìn vào trong hộp. Hỏi Lucy cần lấy ra ít nhất bao nhiêu quả bóng để chắc chắn rằng cô lấy được một quả bóng xanh?
+23 PDF24 SOL78: Hỏi có bao nhiêu số có 2 chữ số mà chia hết cho 5?
+24 PDF24 SOL78: Một cầu thang có 9 bậc. Mỗi lần đi, Chelsea có thể bước lên 1 bậc hoặc 2 bậc. Hỏi cô bé có bao nhiêu cách để đi hết cầu thang?
+25 PDF24 SOL78: Hiện tại Barney đang ở nhà. Sơ đồ từ nhà cậu đến cửa hàng được cho như hình dưới đây. Vì Barney muốn đi đến cửa hàng nhanh nhất có thể, cậu sẽ chỉ đi lên trên hoặc đi sang phải dọc theo con đường trong bản đồ. Hỏi có bao nhiêu cách khác nhau để Barney đến cửa hàng?
+
+=== VL DE 5 ===
+01 PDF25 SOL79: Dựa vào quy luật dưới đây, hỏi có bao nhiêu hình mặt trời tính từ hình thứ nhất phía bên trái đến hình thứ 29?
+02 PDF25 SOL79: Hôm nay là thứ Ba. Hỏi 23 ngày nữa là thứ mấy?
+03 PDF25 SOL79: Người ta có thể mua vé đôi hoặc mua vé đơn để xem một buổi biểu diễn. Nhân viên đếm và thấy rằng có tất cả 50 người nhưng chỉ có 30 vé. Hỏi có bao nhiêu người đến rạp hát một mình?
+04 PDF25 SOL79: Dựa vào quy luật dưới đây, tìm số tiếp theo ở trong dãy.
+05 PDF25 SOL79: Một cửa hàng hoa quả có một rổ cam. Họ bán một nửa số cam trong ngày đầu. Trong ngày thứ hai, họ bán 25 quả cam và bỏ đi 7 quả cam bị hỏng. Họ thấy rằng vẫn còn 50 quả cam. Hỏi lúc đầu cửa hàng có bao nhiêu quả cam?
+06 PDF25 SOL79: Tính 360
+07 PDF26 SOL80: Tìm giá trị của 1
+08 PDF26 SOL80: Tính 130 42
+09 PDF26 SOL80: Tìm giá trị của 100
+10 PDF26 SOL80: Hôm nay là ngày 1 tháng Mười một năm 2020. Tìm tích của ngày, tháng và năm nay.
+11 PDF26 SOL80: Hỏi số lớn nhất có 4 chữ số chia hết cho 5 và 3 là số nào?
+12 PDF26 SOL80: Tìm chữ số tận cùng của 5 15 25 ... 85 95
+13 PDF26 SOL80: Định nghĩa phép toán sau . Tìm giá trị của 243
+14 PDF26 SOL81: Tổng của hai số tự nhiên A và B là 2020. A gấp 3 lần B. Tìm hiệu giữa hai số A và B.
+15 PDF26 SOL81: Biết rằng
+16 PDF27 SOL81: Trong hình dưới đây có bao nhiêu hình chữ nhật chứa phần tô đậm?
+17 PDF27 SOL81: Một hình vuông lớn được ghép lại từ 16 hình vuông nhỏ có cạnh dài 24cm. Hỏi chu vi của hình vuông lớn là bao nhiêu cm?
+18 PDF27 SOL81: Diện tích của hình chữ nhật là 20. Nếu cạnh của hình chữ nhật là các số tự nhiên, hỏi chu vi của hình chữ nhật có thể có bao nhiêu giá trị khác nhau?
+19 PDF27 SOL82: Một kim tự tháp Ai Cập với đáy là hình vuông như hình dưới đây. Hỏi kim tự tháp đó có bao nhiêu cạnh?
+20 PDF27 SOL82: Donald có một mảnh giấy hình vuông. Anh ý cắt dọc theo đường nét đứt để bỏ đi 4 góc giấy và được một hình vuông nhỏ hơn có chu vi 40cm. Tìm diện tích của mảnh giấy ban đầu theo cm2.
+21 PDF28 SOL82: Hỏi có bao nhiêu số có hai chữ số mà chia hết cho cả 2 và 5?
+22 PDF28 SOL82: Hỏi có bao nhiêu số có 3 chữ số mà tổng các chữ số là 4?
+23 PDF28 SOL82: Mỗi ô trong bảng dưới đây được tô bởi một trong ba màu đỏ, xanh và vàng. Hỏi có bao nhiêu cách tô để hai ô cạnh nhau phải có màu khác nhau?
+24 PDF28 SOL82: Chọn 3 chữ số khác nhau từ các chữ số 1, 2, 4, 6, 8 để lập thành số chẵn có 3 chữ số. Hỏi có bao nhiêu số như vậy?
+25 PDF28 SOL83: Bản đồ dưới đây biểu diễn những đoạn đường Mickey có thể đi từ nhà đến trường. Biết rằng anh ấy chỉ có thể đi về phía bắc hoặc về phía đông, hỏi có bao nhiêu cách đi từ nhà đến trường?
+
+=== VL DE 6 ===
+01 PDF29 SOL84: Dựa vào quy luật dưới đây để tìm hình thứ 30 trong dãy.
+02 PDF29 SOL84: Tổng số tuổi của bố và mẹ đang là 79. Tuổi bố 4 năm nữa bằng tuổi của mẹ 7 năm nữa. Hỏi bây giờ mẹ bao nhiêu tuổi?
+03 PDF29 SOL84: Lấy tuổi của bà năm nay cộng 4, nhân 7, trừ 79 rồi chia cho 10. Kết quả bằng 60 tuổi. Hỏi năm nay bà bao nhiêu tuổi?
+04 PDF29 SOL84: Bây giờ là thứ Bảy ngày 1 tháng 9. Cùng năm đó, kì thi Khoa học quốc tế HKISO được tổ chức vào ngày 16 tháng 12. Hỏi còn bao nhiêu ngày nữa sẽ đến kì thi?
+05 PDF29 SOL84: Ta cộng 2 số với nhau. Chữ số hàng chục của A bị viết nhầm từ 4 thành 8. Chữ số hàng trăm của
+06 PDF29 SOL84: Tính giá trị của 10 + 11 + 12 +  ...  + 28 + 29 + 30.
+07 PDF29 SOL84: Tính giá trị của 50  209 + 209  30 + 209  20.
+08 PDF30 SOL85: Tính giá trị của 2400  8 + 3200  4 + 4000  10.
+09 PDF30 SOL85: Tính giá trị của 192  8 + 192  16 + 192  32.
+10 PDF30 SOL85: Tính giá trị của 243 + 123 + 998 + 247 + 757 + 2 + 753 + 877.
+11 PDF30 SOL85: Biết số có 9 chữ số 20180513A chia hết cho 8, tìm A.
+12 PDF30 SOL85: Tìm chữ số hàng đơn vị của A.
+13 PDF30 SOL85: Hỏi số 100 chia hết cho bao nhiêu số nguyên dương?
+14 PDF30 SOL85: Hiệu của A và B là 280. A gấp 3 lần B. Tìm giá trị của A.
+15 PDF30 SOL86: Hỏi có bao nhiêu số có 2 chữ số chia hết cho 7?
+16 PDF31 SOL86: Hỏi có bao nhiêu hình chữ nhật trong hình dưới đây?
+17 PDF31 SOL86: Diện tích của một hình chữ nhật là 20. Chiều dài gấp 5 lần chiều rộng. Tính chu vi của hình chữ nhật đó.
+18 PDF31 SOL86: Chu vi của một tam giác đều là 42. Tìm độ dài của một cạnh.
+19 PDF31 SOL86: Hỏi một hình lập phương có bao nhiêu cạnh?
+20 PDF31 SOL86: Hỏi với 5 đường thẳng, ta có thể chia một hình tròn thành nhiều nhất bao nhiêu phần?
+21 PDF31 SOL87: Biết rằng tổng cân nặng của 3 quả táo và 3 quả dưa là 900g. Một quả dưa nặng bằng 2 quả táo. Hỏi 1 quả táo nặng bao nhiêu?
+22 PDF32 SOL87: Lucy đi từ điểm B đến điểm A. Mỗi bước, cô bé chỉ có thể đi xuống dưới hoặc đi sang trái. Hỏi có bao nhiêu cách đi như vậy?
+23 PDF32 SOL87: Hỏi có bao nhiêu số có 3 chữ số chứa chữ số “0”?
+24 PDF32 SOL88: Dùng 4 chữ số khác nhau: 1, 2, 3 và 4 để lập thành một số lẻ có 4 chữ số. Hỏi có thể lập được bao nhiêu số có 4 chữ số như vậy?
+25 PDF32 SOL88: Tìm tổng lớn nhất của hai số có 5 chữ số được tạo bằng cách sử dụng tất cả 10 chữ số từ 0 đến 9. (Các chữ số không được lặp lại).
+
+=== VL DE 7 ===
+01 PDF33 SOL89: Mỗi ngày, con gà của Tom đẻ được 2 quả trứng. Biết rằng hiện tại anh ấy đang có 20 quả trứng. Hỏi sau 11 ngày, anh ấy sẽ có bao nhiêu quả trứng?
+02 PDF33 SOL89: Biết ngày 19 tháng 2 năm 2021 là thứ Sáu, hỏi ngày 21 tháng 2 năm 2022 là thứ mấy? Sunday (Chủ Nhật) Monday (Thứ Hai) Saturday (Thứ Bảy) Tuesday (Thứ Ba)
+03 PDF33 SOL89: Tìm số thứ 8 trong dãy có quy luật dưới đây?
+04 PDF33 SOL89: Bốn bảng dưới đây được điền số dựa trên cùng một quy luật. Tuy nhiên, có một vài ô đang bị che khuất. Hỏi số bị che khuất ở vị trí “” là số nào?
+05 PDF33 SOL89: Tìm số còn thiếu trong bảng dưới đây.
+06 PDF34 SOL90: Tìm giá trị của 12 16
+07 PDF34 SOL90: Tìm giá trị của 115 17
+08 PDF34 SOL90: Tính giá trị của 5 + 10 + 15 + 20 + … + 195 + 200.
+09 PDF34 SOL90: Biết chữ cái M, A, T, H, K, I, O biểu diễn các số có 1 chữ số khác nhau. Tìm giá trị của chữ cái T.
+10 PDF34 SOL90: Tìm giá trị của K để được phép tính đúng dưới đây.
+11 PDF34 SOL90: Biết A gấp 5 lần B và tổng của A và B là 240. Tính giá trị của A.
+12 PDF34 SOL91: Hỏi có bao nhiêu số có 2 chữ số chia hết cho 2 hoặc 5?
+13 PDF34 SOL91: Biết số có 10 chữ số 20212022AB chia hết cho 45, tìm giá trị nhỏ nhất của A.
+14 PDF35 SOL91: Định nghĩa kí hiệu phép toán mới như sau: , tính 3
+15 PDF35 SOL91: Wendy viết một số có 2 chữ số. Amy viết thêm một chữ số 1 vào bên phải số của Wendy thì thấy số đó tăng thêm 856 đơn vị. Tìm số của Wendy.
+16 PDF35 SOL91: Mỗi ô vuông trong lưới dưới đây có độ dài cạnh bằng 2. Tính diện tích phần tô đậm.
+17 PDF35 SOL92: Người ta muốn sơn toàn bộ bề mặt của hình dưới đây. Hỏi họ cần sơn ít nhất bao nhiêu hình vuông?
+18 PDF35 SOL92: Một hình chữ nhật có chu vi 28cm. Khi chiều dài của nó tăng thêm 3cm thì diện tích hình chữ nhật cũng tăng thêm 18cm2. Tính diện tích của hình chữ nhật mới theo cm2.
+19 PDF36 SOL92: Hỏi có bao nhiêu hình chữ nhật chứa cả hai tam giác trong hình dưới đây?
+20 PDF36 SOL92: Tám hình chữ nhật y hệt nhau đều có chu vi là 36 được ghép thành hình vuông như sau. Tính chu vi của hình vuông đó.
+21 PDF36 SOL93: Buổi lễ chào cờ sau Tết có sự tham gia của 81 học sinh tiểu học, 67 học sinh trung học cơ sở và 53 học sinh trung học phổ thông. Thầy hiệu trưởng gọi tên ngẫu nhiên để lì xì cho học sinh. Hỏi thầy cần gọi ít nhất bao nhiêu em để chắc chắn trong số đó có 5 học sinh tiểu học và 7 học sinh trung học cơ sở nhận được lì xì?
+22 PDF36 SOL93: Mỗi ngày Sarah phải uống 1 hoặc 2 viên thuốc. Biết rằng cô ấy có tất cả 10 viên thuốc. Hỏi có bao nhiêu cách khác nhau để Sarah uống hết số thuốc đó?
+23 PDF36 SOL93: Cho số có 100 chữ số với quy luật dưới đây. Tìm chữ số hàng đơn vị của A.
+24 PDF37 SOL93: Chọn 4 chữ số khác nhau từ các số 0, 2, 4, 5, 6, 7 để lập thành số có 4 chữ số lớn hơn 4756. Hỏi có thể tạo được bao nhiêu số như vậy?
+25 PDF37 SOL94: Anna cần điền các số vào dải băng dưới đây sao cho 3 ô liên tiếp có tổng bằng 100. Hỏi cần điền số nào vào ô cuối cùng của dải băng đó?
+
+=== QG DE 1 ===
+01 PDF38 SOL95: Mark: Điểm số; Average: Trung bình cộng.
+02 PDF38 SOL95: June: Tháng Sáu; Saturday: Thứ Bảy; Day of the week: Thứ trong tuần; February: Tháng Hai; Leap year: Năm nhuận.
+03 PDF38 SOL95: Require: Cần; Minute: Phút; Piece of wood: Khúc gỗ; Section: Phần; The same: Như nhau.
+04 PDF38 SOL95: Pattern: Quy luật; Missing number: Số còn thiếu.
+05 PDF38 SOL95: Total: Tổng cộng; Animal: Con vật; Chicken: Con gà; Rabbit: Con thỏ; Leg: Cái chân.
+06 PDF38 SOL96: Value: Giá trị.
+07 PDF38 SOL96: Value: Giá trị.
+08 PDF38 SOL96: Value: Giá trị.
+09 PDF39 SOL96: Value: Giá trị.
+10 PDF39 SOL96: Value: Giá trị.
+11 PDF39 SOL96: Natural number: Số tự nhiên; Divisible: Chia hết; Different: Khác nhau; Value: Giá trị.
+12 PDF39 SOL97: 9-digit number: Số có 9 chữ số; Divisible: Chia hết; Value: Giá trị.
+13 PDF39 SOL97: Define: Định nghĩa; Operation symbol: Ký hiệu phép toán; Value: Giá trị.
+14 PDF39 SOL97: Sum: Tổng; 9 times: Gấp 9 lần; Value: Giá trị.
+15 PDF39 SOL97: 3-digit number: Số có 3 chữ số; Divisible: Chia hết.
+16 PDF39 SOL97: Rectangle: Hình chữ nhật; Figure: Hình vẽ.
+17 PDF39 SOL98: Rectangle: Hình chữ nhật; Figure: Hình vẽ.
+18 PDF40 SOL98: Perimeter: Chu vi; Rectangle: Hình chữ nhật; Side length: Độ dài cạnh; Natural number: Số tự nhiên; Maximum value: Giá trị lớn nhất; Area: Diện tích.
+19 PDF40 SOL98: Identical: Giống nhau; Cube: Hình lập phương; Combined: Được ghép lại; Figure: Hình vẽ; At least: Ít nhất; Square face: Mặt hình vuông; Viewing: Quan sát; Right: Bên phải.
+20 PDF40 SOL99: Pyramid: Hình chóp; Face: Mặt; Edge: Cạnh.
+21 PDF40 SOL99: 3-digit odd number: Số lẻ có 3 chữ số; Product: Tích; Digit: Chữ số.
+22 PDF40 SOL99: 3-digit odd number: Số lẻ có 3 chữ số; Contain: Chứa; Digit: Chữ số.
+23 PDF40 SOL99: Drawn: Được lấy ra; Natural number: Số tự nhiên; At random: Ngẫu nhiên; At least: Ít nhất; Ensure: Chắc chắn; Chosen: Được chọn; Sum: Tổng.
+24 PDF40 SOL99: Digit: Chữ số; 3-digit number: Số có 3 chữ số; Even number: Số chẵn; Greater than: Lớn hơn; Less than: Nhỏ hơn (Các chữ số không được lặp lại).
+25 PDF41 SOL100: Different ways: Các cách khác nhau; Point: Điểm; Path: Đường đi; Figure: Hình vẽ; Move up: Di chuyển lên trên; Move right: Di chuyển sang phải.
+
+=== QG DE 2 ===
+01 PDF42 SOL101: Examination: Bài kiểm tra; Subject: Môn học; Average mark: Điểm trung bình; Score: Đạt được số điểm .
+02 PDF42 SOL101: Age: Tuổi; Years: Năm; Ago: Trước; The same as: Bằng; Sum: Tổng.
+03 PDF42 SOL101: Divide: Chia; Age: Tuổi; Subtract: Trừ; Add: Cộng; Multiply: Nhân; Result: Kết quả; Later: Sau này.
+04 PDF42 SOL101: April: Tháng Tư; Monday: Thứ Hai; Day of the week: Thứ trong tuần; January: Tháng Một.
+05 PDF42 SOL102: Require: Cần; Minute: Phút; Piece of wood: Khúc gỗ; Section: Phần; The same: Như nhau.
+06 PDF42 SOL102: Value: Giá trị.
+07 PDF42 SOL102: Method: Phương pháp; Value: Giá trị.
+08 PDF42 SOL102: Value: Giá trị.
+09 PDF42 SOL102: Value: Giá trị.
+10 PDF42 SOL102: Value: Giá trị.
+11 PDF43 SOL103: Unit digit: Chữ số hàng đơn vị.
+12 PDF43 SOL103: Smallest: Nhỏ nhất; 4-digit number: Số có 4 chữ số; Divisible by: Chia hết cho.
+13 PDF43 SOL103: 6-digit number: Số có 6 chữ số; Divisible by: Chia hết; Maximum value: Giá trị lớn nhất.
+14 PDF43 SOL103: Define: Định nghĩa; Operation symbol: Ký hiệu phép toán; Value: Giá trị.
+15 PDF43 SOL103: Sum: Tổng; Consecutive even numbers: Số chẵn liên tiếp; 2nd greatest number: Số lớn thứ 2.
+16 PDF43 SOL104: Rectangle: Hình chữ nhật; Figure: Hình vẽ.
+17 PDF43 SOL104: Combine: Ghép; Square: Hình vuông; Perimeter: Chu vi; Rectangle: Hình chữ nhật; Difference: Hiệu; Largest: Lớn nhất; Value: Giá trị; Smallest: Nhỏ nhất.
+18 PDF43 SOL104: Lengths: Độ dài; Sides: Cạnh; Rectangle: Hình chữ nhật; Integers: Số nguyên; Perimeter: Chu vi; Largest possible value: Giá trị lớn nhất có thể; Area: Diện tích.
+19 PDF43 SOL105: Lengths: Độ dài; Legs: Cạnh góc vuông; Right-angled triangle: Tam giác vuông; Hypotenuse: Cạnh huyền.
+20 PDF44 SOL105: Line segment: Đoạn thẳng; Formed: Được tạo ra; Joining: Nối; Points: Điểm; At most: Nhiều nhất.
+21 PDF44 SOL105: Flight of stairs: Cầu thang; Steps: Bậc; At a time: 1 lần; Different ways: Cách khác nhau.
+22 PDF44 SOL105: 2-digit numbers: Số có 2 chữ số; Contain: Chứa; Digit: Chữ số.
+23 PDF44 SOL105: Different ways: Các cách khác nhau; Point: Điểm; Path: Đường đi; Figure: Hình vẽ; Move left: Đi sang trái; Move down: Đi xuống dưới.
+24 PDF44 SOL106: Drawn: Được chọn ra; Integers: Số nguyên; At random: Ngẫu nhiên; Without repetition: Không lặp lại; At least: Ít nhất; Ensure: Chắc chắn; Sum: Tổng.
+25 PDF44 SOL106: Total weight: Tổng cân nặng; Boxes: Thùng; Difference: Hiệu.
+
+=== QG DE 3 ===
+01 PDF45 SOL107: Require: Cần; Minutes: Phút; Piece of wood: Khúc gỗ; Sections: Phần; Time: Thời gian; The same: Giống nhau.
+02 PDF45 SOL107: Number: Số; Represent: Biểu diễn; Sequence: Dãy số.
+03 PDF45 SOL107: Today: Hôm nay; Wednesday: Thứ Tư; Day of the week: Thứ trong tuần; Ago: Trước.
+04 PDF45 SOL107: Add: Cộng; The number: Số lượng; Sum: Tổng; Divided by: Chia cho; Quotient: Thương; Multiplied by: Nhân với; Subtracted from: Bị trừ; Product: Tích; Result: Kết quả.
+05 PDF45 SOL107: Total: Tổng cộng; Ducks: Con vịt; Cows: Con bò; Animals: Con vật; Legs: Cái chân.
+06 PDF45 SOL107: Value: Giá trị.
+07 PDF45 SOL107: Method: Phương pháp; Value: Giá trị.
+08 PDF45 SOL108: Value: Giá trị.
+09 PDF45 SOL108: Value: Giá trị.
+10 PDF45 SOL108: Value: Giá trị.
+11 PDF46 SOL108: Bicycles: Xe đạp 2 bánh; Unicycles: Xe đạp 1 bánh; Total: Tổng cộng; The number: Số lượng; 11 times: Gấp 11 lần.
+12 PDF46 SOL108: Largest: Lớn nhất; 3-digit odd number: Số lẻ có 3 chữ số; Divisible by: Chia hết cho.
+13 PDF46 SOL108: Sum: Tổng; Consecutive odd numbers: Số lẻ liên tiếp; Third smallest number: Số nhỏ thứ 3.
+14 PDF46 SOL108: Unit digit: Chữ số hàng đơn vị.
+15 PDF46 SOL108: 10-digit number: Số có 10 chữ số; Divisible by: Chia hết cho; Value: Giá trị.
+16 PDF46 SOL109: Small square: Hình vuông nhỏ; Perimeter: Chu vi; Larger square: Hình vuông lớn.
+17 PDF46 SOL109: Identical: Giống nhau; Rectangle: Hình chữ nhật; Square: Hình vuông; Combined: Được ghép lại; Perimeter: Chu vi; Area: Diện tích.
+18 PDF46 SOL109: Area: Diện tích; Rectangle: Hình chữ nhật; Width: Chiều rộng; Length: Chiều dài; Integer: Số nguyên; Smallest value: Giá trị nhỏ nhất; Perimeter: Chu vi.
+19 PDF46 SOL109: Pyramid: Hình chóp; Face: Mặt; Edge: Cạnh.
+20 PDF47 SOL110: Rectangles: Hình chữ nhật; Figure: Hình vẽ.
+21 PDF47 SOL110: 3-digit even numbers: Số chẵn có 3 chữ số; Product of digits: Tích các chữ số.
+22 PDF47 SOL110: Number: Số; Drawn: Được chọn ra; Integers: Số nguyên; At random: Ngẫu nhiên; At least: Ít nhất; Ensure: Chắc chắn; Sum: Tổng.
+23 PDF47 SOL111: Total: Tổng; Weight: Cân nặng; Kiwifruit: Quả kiwi, Pineapple: Quả dứa; Orange: Quả cam; The same: Bằng.
+24 PDF47 SOL111: 3-digit odd numbers: Số lẻ có 3 chữ số; Contains: Chứa; Digit: Chữ số; Repeated: Lặp lại.
+25 PDF47 SOL111: Ways: Cách; Letters: Các chữ cái; Word: Từ; Arranged: Được sắp xếp; Together: Cạnh nhau; In the order: Theo thứ tự.
+
+=== QG DE 4 ===
+01 PDF48 SOL112: Require: Cần; Seconds: Giây; Ribbon: Sợi ruy-băng; Sections: Phần; Time: Thời gian; The same: Giống nhau.
+02 PDF48 SOL112: Total: Tổng số; Ducks: Vịt; Giraffes: Hươu cao cổ; Wildlife park: Công viên động vật hoang dã; Animals: Động vật; Legs: Cái chân.
+03 PDF48 SOL112: Value: Giá trị; Number: Số; Represent: Biểu diễn; Sequence. Dãy số.
+04 PDF48 SOL112: Sunday: Chủ nhật; Day of the week: Thứ trong tuần; Ago: Trước.
+05 PDF48 SOL112: Biscuits: Bánh quy; Plus: Cộng; Divided by: Chia cho; Multiplied by: Nhân với; Minus: Trừ; Result: Kết quả.
+06 PDF48 SOL112: Value: Giá trị.
+07 PDF48 SOL113: Method: Phương pháp; Value: Giá trị.
+08 PDF48 SOL113: Value: Giá trị.
+09 PDF48 SOL113: Value: Giá trị.
+10 PDF48 SOL113: Value: Giá trị.
+11 PDF49 SOL113: Melons: Quả dưa; Oranges: Quả cam; Product: Tích; 11 times: Gấp 11 lần.
+12 PDF49 SOL113: 3-digit number: Số có 3 chữ số; Divisible by: Chia hết cho.
+13 PDF49 SOL113: Sum: Tổng; Consecutive even numbers: Các số chẵn liên tiếp; Value: Giá trị; Largest number: Số lớn nhất.
+14 PDF49 SOL114: Unit digit: Chữ số hàng đơn vị.
+15 PDF49 SOL114: Divisible by: Chia hết cho; Value: Giá trị.
+16 PDF49 SOL114: Non-collinear points: Các điểm không thẳng hàng; Line segments: Đoạn thẳng.
+17 PDF49 SOL114: Rectangles: Hình chữ nhật; Figure: Hình vẽ.
+18 PDF49 SOL114: Rectangular piece of paper: Mảnh giấy hình chữ nhật; Perimeter: Chu vi; Cut: Cắt; Squares: Hình vuông; Figure: Hình vẽ; Area: Diện tích; Biggest: Lớn nhất.
+19 PDF49 SOL115: Area: Diện tích; Rectangle: Hình chữ nhật; Width: Chiều rộng; Length: Chiều dài; Integers: Số nguyên; Smallest value: Giá trị nhỏ nhất; Perimeter: Chu vi.
+20 PDF50 SOL115: Rectangles: Hình chữ nhật; Figure: Hình vẽ.
+21 PDF50 SOL115: 3-digit odd numbers: Số lẻ có 3 chữ số; Product of digits: Tích các chữ số.
+22 PDF50 SOL116: Drawn: Được chọn ra; Integers: Số nguyên; At least: Ít nhất; Ensure: Chắc chắn; Sum: Tổng.
+23 PDF50 SOL116: Choose: Chọn; Digits: Chữ số; Without repetition: Không lặp lại; 3-digit numbers: Số có 3 chữ số; Even numbers: Số chẵn.
+24 PDF50 SOL116: 2-digit numbers: Số có 2 chữ số; Contains: Chứa; Digit: Chữ số; Repeated: Lặp lại.
+25 PDF50 SOL116: Ways: Cách; Letters: Các chữ cái; Word: Từ; Arranged: Được sắp xếp; Together: Cạnh nhau.
+
+=== QG DE 5 ===
+01 PDF51 SOL117: March: Tháng 3; Later: Sau.
+02 PDF51 SOL117: Pattern: Quy luật; Triangles: Hình tam giác; Symbol: Hình; Counting from the left: Đếm từ phía bên trái.
+03 PDF51 SOL117: Total: Tổng số.
+04 PDF51 SOL117: Minuses: Trừ; Divided: Chia; Adds: Cộng; Multiplied: Nhân; Result: Kết quả.
+05 PDF51 SOL117: Pattern: Quy luật; 9th group: Hình thứ 9.
+06 PDF51 SOL118: Value: Giá trị.
+07 PDF51 SOL118: Value: Giá trị.
+08 PDF51 SOL118: Value: Giá trị.
+09 PDF52 SOL118: Value: Giá trị.
+10 PDF52 SOL118: Method: Phương pháp; Value: Giá trị.
+11 PDF52 SOL118: Sum: Tổng; Consecutive odd numbers: Các số lẻ liên tiếp; Value: Giá trị; The largest number: Số lớn nhất.
+12 PDF52 SOL118: Define: Định nghĩa; Operation symbol: Kí hiệu phép toán; Value: Giá trị.
+13 PDF52 SOL119: Unit digit: Chữ số hàng đơn vị.
+14 PDF52 SOL119: 10-digit number: Số có 10 chữ số; Divisible: Chia hết; Value: Giá trị.
+15 PDF52 SOL119: Left: Còn thừa.
+16 PDF52 SOL119: Figure: Hình vẽ; Identical right-angled triangles: Các tam giác vuông bằng nhau; Square: Hình vuông; Respectively: Lần lượt; Area: Diện tích; Perimeter: Chu vi.
+17 PDF52 SOL119: Area: Diện tích; Rectangle: Hình chữ nhật; Sides: Cạnh; Integers: Số nguyên; Maximum of the perimeter: Chu vi lớn nhất.
+18 PDF53 SOL120: At least: Ít nhất; Squares: Hình vuông; Viewing: Quan sát; Figure: Hình vẽ; From the right: Từ phía bên phải.
+19 PDF53 SOL120: Pattern: Quy luật; Cubes: Hình lập phương; 10th group: Hình thứ 10.
+20 PDF53 SOL120: Rectangles: Hình chữ nhật; Figure: Hình.
+21 PDF53 SOL121: Drawn: Được chọn ra; Integers: Số nguyên; At least: Ít nhất; At random: Ngẫu nhiên; Product: Tích.
+22 PDF53 SOL121: 3-digit number: Số có 3 chữ số; Without digital repetition: Các chữ số không được lặp lại; Digit: Chữ số.
+23 PDF54 SOL121: 3-digit odd number: Số lẻ có 3 chữ số; Product of the digits: Tích các chữ số.
+24 PDF54 SOL121: The smallest difference: Hiệu nhỏ nhất; Two 3-digit numbers: Hai số có 3 chữ số; Digits: Chữ số; Without repetition: Các chữ số không được lặp lại.
+25 PDF54 SOL121: Point: Điểm; Move up: Đi lên trên; Move right: Đi sang phải; Line: Đường kẻ.
+
+=== QG DE 6 ===
+01 PDF55 SOL122: Sunday: Chủ Nhật; Day of the week: Thứ trong tuần; Later: Sau.
+02 PDF55 SOL122: Total: Tổng cộng.
+03 PDF55 SOL122: Requires: Cần; Sections: Phần; The same: Giống nhau.
+04 PDF55 SOL122: Minuses: Trừ; Divided: Chia; Adds: Cộng; Multiplied: Nhân; Result: Kết quả.
+05 PDF55 SOL122: Pattern: Quy luật.
+06 PDF55 SOL122: Value: Giá trị.
+07 PDF55 SOL122: Value: Giá trị.
+08 PDF55 SOL123: Value: Giá trị.
+09 PDF56 SOL123: Value: Giá trị.
+10 PDF56 SOL123: Value: Giá trị.
+11 PDF56 SOL123: 9-digit number: Số có 9 chữ số; Divisible: Chia hết; Value: Giá trị.
+12 PDF56 SOL123: Unit digit: Chữ số tận cùng.
+13 PDF56 SOL124: Operation symbol: Kí hiệu phép toán; Value: Giá trị.
+14 PDF56 SOL124: Sum: Tổng; Positive numbers: Số dương; 8 times: Gấp 8 lần; Value: Giá trị.
+15 PDF56 SOL124: Factors: Ước số.
+16 PDF56 SOL124: Rectangles: Hình chữ nhật; Figure: Hình vẽ.
+17 PDF56 SOL124: Right-angled triangles: Tam giác vuông; Figure: Hình vẽ.
+18 PDF57 SOL124: Perimeter: Chu vi; Rectangle: Hình chữ nhật; Sides: Cạnh; Integers: Số nguyên; Maximum value: Giá trị lớn nhất; Area: Diện tích.
+19 PDF57 SOL124: Square: Hình vuông; Rectangles: Hình chữ nhật; Perimeter: Chu vi; Original: Ban đầu; Area: Diện tích.
+20 PDF57 SOL124: Perimeter: Chu vi; Square: Hình vuông; Rectangle: Hình chữ nhật; Maximum value: Giá trị lớn nhất; Perimeter: Chu vi.
+21 PDF57 SOL125: At least: Ít nhất.
+22 PDF57 SOL125: Smallest difference: Hiệu nhỏ nhất; 5-digit numbers: Số có 5 chữ số; Digit: Chữ số; Without repetition: Không lặp lại.
+23 PDF57 SOL125: Total weight: Tổng cân nặng; The same as: Bằng với.
+24 PDF57 SOL125: Flight of stairs: Cầu thang; Step: Bậc thang.
+25 PDF57 SOL126: 3-digit number: Số có 3 chữ số; Digit: Chữ số.
+
+=== QG DE 7 ===
+01 PDF58 SOL127: Value: Giá trị; Represent: Biểu diễn; Sequence: Dãy số.
+02 PDF58 SOL127: Pattern: Quy luật; Triangles: Tam giác; Figure: Hình vẽ; Counting from the left: Tính từ phía bên trái.
+03 PDF58 SOL127: Require: Cần; Sections: Phần; The same: Giống nhau.
+04 PDF58 SOL127: Sunday: Chủ Nhật; Day of the week: Thứ trong tuần; Later: Sau.
+05 PDF58 SOL127: Adds: Cộng; Divided: Chia; Minuses: Trừ; Multiplied: Nhân; Result: Kết quả.
+06 PDF58 SOL127: Value: Giá trị.
+07 PDF58 SOL128: Value: Giá trị.
+08 PDF58 SOL128: Value: Giá trị.
+09 PDF58 SOL128: Value: Giá trị.
+10 PDF58 SOL128: Value: Giá trị.
+11 PDF58 SOL128: Smallest 4-digit number: Số nhỏ nhất có 4 chữ số; Divisible: Chia hết.
+12 PDF59 SOL128: Unit digit: Chữ số tận cùng.
+13 PDF59 SOL129: Operation symbol: Kí hiệu phép toán; Value: Giá trị.
+14 PDF59 SOL129: Product: Tích; Positive numbers: Số dương; 3 times: Gấp 3 lần; Value: Giá trị.
+15 PDF59 SOL129: 9-digit number: Số có 9 chữ số; Divisible: Chia hết; Value: Giá trị.
+16 PDF59 SOL129: Rectangles: Hình chữ nhật; Figure: Hình vẽ.
+17 PDF59 SOL129: Lengths: Độ dài; Shorter sides: Các cạnh ngắn hơn; Right-angled triangle: Tam giác vuông; Longest side: Cạnh dài nhất.
+18 PDF59 SOL129: Area: Diện tích; Rectangle: Hình chữ nhật; Sides: Cạnh; Integers: Số nguyên; Value: Giá trị;
+19 PDF59 SOL129: Square: Hình vuông; Side length: Độ dài cạnh; Perimeter: Chu vi.
+20 PDF59 SOL130: Right-angled triangles: Tam giác vuông; Figure: Hình vẽ.
+21 PDF60 SOL130: Smallest difference: Hiệu nhỏ nhất; 4-digit numbers: Số có 4 chữ số; Digits: Chữ số; Without repetition: Không lặp lại.
+22 PDF60 SOL130: Total weight: Tổng cân nặng; The same as: Bằng với.
+23 PDF60 SOL130: Requires: Cần; Complete a task: Hoàn thành một công việc.
+24 PDF60 SOL131: Total: Tổng số.
+25 PDF60 SOL131: 2-digit number: Số có 2 chữ số; Digit: Chữ số.

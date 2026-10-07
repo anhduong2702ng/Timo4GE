@@ -1,0 +1,103 @@
+
+=== PDF PAGE 1 ===
+  
+TH – THCS NEWTON  5 
+TOÁN NÂNG CAO 
+CHUYÊN ĐỀ 4: BÀI TOÁN TRUNG BÌNH CỘNG 
+Họ và tên: ………………………………………………………          Lớp: 4……. 
+I. KIẾN THỨC CẦN NHỚ. 
+1. Trung bình cộng của 2 số a và b là (a+b) : 2 
+2. Trung bình cộng của 3 số a, b và c là: (a+b+c) : 3 
+3. Trung bình cộng của n số: 𝑎1, 𝑎2, 𝑎3, … , 𝑎𝑛 là: (𝑎1 + 𝑎2 + 𝑎3 + ⋯ + 𝑎𝑛) : 𝑛 
+4. Nếu các số 𝑎1, 𝑎2, 𝑎3, … , 𝑎𝑛 tạo thành 1 dãy số cách đều thì trung bình cộng của các số đó sẽ 
+bằng: 
++ Số ở chính giữa nếu dãy có lẻ số. 
++ Trung bình cộng 2 số ở giữa nếu dãy có chẵn số. 
++ Trung bình cộng 2 số ở đầu và cuối của dãy. 
+5. Trung bình cộng của n số 𝑎1, 𝑎2, 𝑎3, … , 𝑎𝑛 sẽ lớn hơn hoặc bằng số bé nhất và bé hơn hoặc 
+bằng số lớn nhất. 
+II. BÀI TẬP 
+Bài 1. Tìm trung bình cộng của các số sau: 
+a) 45; 20; 30; 100; 80                          b) 16, 35; 55; 60; 90; 200 
+            c) 23, 78; 102; 33 
+Bài 2. Trung bình cộng của dãy số: 1; 2; 3; 4; ...; 2025 là bao nhiêu? 
+Bài 3. Trung bình cộng của dãy số: 1; 3; 5; 7; ...; 2023; 2025 là bao nhiêu? 
+Bài 4. Trung bình cộng của dãy số: 2; 4; 6; 8; ...; 2024; 2026 là bao nhiêu? 
+Bài 5. Trung bình cộng của 10 số lẻ liên tiếp bắt đầu từ 103 là bao nhiêu? 
+Bài 6. Ba bạn An, Bình, Dũng chơi bi, An có 28 viên bi, Bình có 42 viên bi, Dũng có 26 viên bi. 
+Hỏi trung bình mỗi bạn có bao nhiêu viên bi? 
+Bài 7. Một ô tô chạy từ tỉnh A đến tỉnh B. Trong hai giờ đầu, mỗi giờ ô tô chạy được 48 km, giờ 
+thứ ba ô tô chạy được 52 km, hai giờ sau, mỗi giờ ô tô chạy được 41 km. Hỏi trung bình mỗi giờ 
+ô tô chạy được bao nhiêu km? 
+Bài 8. Có 3 tổ công nhân sửa đường, tổ một sửa được 57m đường, tổ hai sửa được nhiều hơn tổ 
+một 6m đường, tổ ba sửa được 45m đường. Hỏi trung bình mỗi tổ sửa được bao nhiêu mét đường? 
+Bài 9. Có một nhà máy, ngày thứ nhất sản xuất được 97 sản phẩm, ngày thứ hai sản xuất kém 
+hơn ngày thứ nhất 49 sản phẩm, ngày thứ ba sản xuất hơn ngày thứ hai 138 sản phẩm, ngày thứ 
+tư sản xuất kém ngày thứ ba 13 sản phẩm. Hỏi trong 4 ngày đó, trung bình mỗi ngày nhà máy 
+sản xuất được bao nhiêu sản phẩm? 
+Bài 10. Có 3 thùng dầu, trung bình mỗi thùng chứa 35l dầu, biết thùng thứ nhất chứa 25l, thùng 
+thứ hai chứa nhiều hơn thùng thứ nhất 4l dầu. Hỏi thùng thứ 3 chứa bao nhiêu lít dầu? 
+Bài 11. Hai người đi xe máy khởi hành cùng 1 lúc từ hai địa điểm cách nhau 216km và đi ngược 
+chiều nhau, sau 3 giờ thì họ gặp nhau. Hỏi trung bình mỗi giờ một người đi được bao nhiêu  
+ki – lô – mét? 
+Bài 12. Tìm 5 số lẻ liên tiếp có trung bình cộng bằng 2011. 
+Bài 13. Tìm 6 số chẵn liên tiếp có trung bình cộng bằng 99. 
+Bài 14. Biết tổng của 3 số chẵn liên tiếp bằng 258. Tìm 3 số đó.  
+Bài 15. Biết tổng của 6 số lẻ liên tiếp bằng 1140. Tìm 6 số đó.  
+Bài 16. Trung bình cộng của 3 số: 45; 23 và a là 96. Tìm a. 
+Bài 17. Cho 4 số: 12; 15; 18 và a. Tìm số a biết số a bằng trung bình cộng của 4 số. 
+Bài 18. Một cửa hàng bán vải trong 3 ngày. Ngày đầu bán được 98m, ngày thứ 2 bán được hơn 
+
+
+=== PDF PAGE 2 ===
+  
+TH – THCS NEWTON  5 
+ngày đầu 5m nhưng kém ngày thứ ba 5m. Hỏi trung bình mỗi ngày cửa hàng đó bán được bao 
+nhiêu mét vải? 
+Bài 19. Biết điểm 2 bài kiểm tra toán của Hùng là điểm 6 và điểm 8. Hỏi điểm bài kiểm tra toán 
+thứ ba của Hùng phải đạt bao nhiêu điểm để điểm trung bình của 3 bài kiểm tra toán của Hùng 
+là 8 điểm. 
+Bài 20. Tuổi trung bình của tổ trưởng và 10 công nhân trong tổ là 22 tuổi. Nếu không kể tổ trưởng 
+thì tuổi trung bình của 10 công nhân là 21 tuổi. Tính tuổi của tổ trưởng. 
+Bài 21. Tuổi trung bình của cô giáo chủ nhiệm và 30 học sinh lớp 4A là 12 tuổi. Nếu không tính 
+cô giáo thì tuổi trung bình của 30 học sinh là 11 tuổi. Hỏi cô giáo bao nhiêu tuổi? 
+Bài 22. Cho 4 số tự nhiên13; 15; 16 và số a. Biết a bé hơn trung bình cộng của 4 số đó là 2 đơn 
+vị. Tìm số a. 
+Bài 23. Tìm 2 số biết số bé là 164. Và nó bé hơn trung bình cộng của 2 số là 27. Tìm số lớn. 
+Bài 24. Tìm 2 số tự nhiên có trung bình cộng bằng 185, biết nếu viết thêm chữ số 2 vào đằng 
+trước số bé thì ta được số lớn. 
+Bài 25. Tìm 3 số tự nhiên có trung bình cộng bằng 240 và trung bình cộng của số thứ nhất với 
+số thứ hai bằng 209, của số thứ hai với số thứ ba bằng 285. 
+Bài 26. Tìm 3 số tự nhiên, biết trung bình cộng của số thứ nhất và số thứ hai bằng 104; trung bình 
+cộng của số thứ hai và số thứ ba bằng 138; trung bình cộng của số thứ ba và số thứ nhất bằng120. 
+Bài 27. Tìm 3 số tự nhiên biết trung bình cộng của số thứ nhất và số thứ hai bằng 203, trung bình 
+cộng của số thứ hai và số thứ ba là 258; trung bình cộng của số thứ ba và số thứ nhất bằng 246. 
+Bài 28. Có 3 con gà, ngan, vịt. Hai con gà và vịt nặng tất cả 5kg. Hai con gà và ngan nặng tất cả 
+9kg. Hai con ngan và vịt nặng tất cả 10kg. Hỏi trung bình mỗi con nặng mấy ki-lô-gam? 
+Bài 29. Bốn bạn Mai, Lan, Hồng và Cúc có tất cả 60 vở. Biết số vở của Hồng bằng trung bình 
+cộng của 3 bạn kia. Hỏi Hồng có bao nhiêu vở? 
+Bài 30. Một đội công nhân gồm 3 tổ tham gia sửa đường. Tổ I sửa được hơn trung bình cộng của 
+cả 3 tổ là 12m. Tổ II sửa được số mét đường nhiều hơn trung bình cộng của tổ III và tổ II là 8m. 
+Tổ III sửa được 60m đường. Hỏi cả đội công nhân sửa được bao nhiêu mét đường? 
+Bài 31. Ba bạn An, Bình và Cường có một số bi. Biết An có 46 viên bi, Cường có 38 viên bi còn 
+Bình có số bi ít hơn số bi trung bình của cả 3 bạn là 4 viên. Hỏi Bình có bao nhiêu viên bi? 
+Bài 32. Tìm 3 số có trung bình cộng là 91, biết số thứ nhất gấp đôi số thứ 2, số thứ 2 gấp đôi số 
+thứ 3. 
+Bài 33. An có 20 nhãn vở, Bình có 28 nhãn vở. Chi có số nhãn vở kém trung bình cộng của cả 3 
+bạn là 6 nhãn vở. Hỏi Chi có bao nhiêu nhãn vở. 
+Bài 34. Một đội có ba xe chở hàng, xe thứ nhất chở được 45 tạ và chở ít hơn xe thứ hai 10 tạ. 
+Trung bình cộng số hàng cả ba xe chở được ít hơn số hàng của xe thứ ba là 6 tạ. Hỏi cả ba xe 
+chở được bao nhiêu tạ hàng? 
+Bài 35. Bốn khối 2, 3, 4, 5 của một trường tham gia trồng cây. Khối 2 trồng được 195 cây; khối 
+3 trồng được 205 cây; khối 4 trồng được hơn mức trung bình của 3 khối 2,3,4 là 14 cây. Khối 5 
+trồng được kém mức trung bình của cả 4 khối là 9 cây. Tính số cây trồng được của khối 4 và 
+khối 5? 
+Chúc con làm bài tốt !
+
+
+=== PDF PAGE 3 ===
+TH – THCS NEWTON 5 
+2 
+ 
+ 
+ 
